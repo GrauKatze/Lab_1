@@ -1,0 +1,8 @@
+print("Goroskop")
+name = input("Enter name")
+NextName = input("Enter NExtName")
+LoveAnimal = input("Enter LoveAnimal")
+Znak = input("Enter Znak")
+print("Индивидуальный гороскоп для пользователя" + name + NextName)
+print("Кем вы были в прошлой жизни: "+LoveAnimal)
+print("Ваш знак зодиака - "+Znak+" , поэтому вы - тонко чувствующая натура.")
